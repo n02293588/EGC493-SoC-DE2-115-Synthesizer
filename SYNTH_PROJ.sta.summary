@@ -1,0 +1,161 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 4.999
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'altera_reserved_tck'
+Slack : 42.593
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 0.263
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 4.552
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 42.655
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'altera_reserved_tck'
+Slack : -2.251
+TNS   : -2.251
+
+Type  : Slow 1200mV 85C Model Removal 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 1.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 9.614
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.819
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 29.213
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 6.025
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 42.976
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 5.066
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 43.074
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : -2.237
+TNS   : -2.237
+
+Type  : Slow 1200mV 0C Model Removal 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 1.277
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 9.633
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.799
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 29.426
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 7.762
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 46.908
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 0.088
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 7.149
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 45.783
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : -0.895
+TNS   : -0.895
+
+Type  : Fast 1200mV 0C Model Removal 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 0.676
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.400
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|external_clocks|DE_Clock_Generator_System|auto_generated|pll1|clk[0]'
+Slack : 9.750
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 29.248
+TNS   : 0.000
+
+------------------------------------------------------------

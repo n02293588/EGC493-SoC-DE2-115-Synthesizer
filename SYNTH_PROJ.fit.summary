@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Dec 08 18:38:57 2013
+Quartus II 32-bit Version : 12.0 Build 232 07/05/2012 SP 1 SJ Web Edition
+Revision Name : SYNTH_PROJ
+Top-level Entity Name : SYNTH_PROJ
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 12,031 / 114,480 ( 11 % )
+    Total combinational functions : 10,737 / 114,480 ( 9 % )
+    Dedicated logic registers : 7,486 / 114,480 ( 7 % )
+Total registers : 7605
+Total pins : 176 / 529 ( 33 % )
+Total virtual pins : 0
+Total memory bits : 68,665 / 3,981,312 ( 2 % )
+Embedded Multiplier 9-bit elements : 11 / 532 ( 2 % )
+Total PLLs : 2 / 4 ( 50 % )
